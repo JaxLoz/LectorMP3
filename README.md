@@ -6,8 +6,8 @@ Esto es un lector de archivos MP3 muy basico realizado con la libreria externa j
 - Reproducir archivo MP3
 - Detener archivos MP3
 # Bugs:
-- 1 El reproductor presenta fallos al presionar dos veces el boton de play iniciando una nueva reporduccion sobre la que ya se esta reproduciendo
-- 2 Lista archivos que no son MP3
+1. El reproductor presenta fallos al presionar dos veces el boton de play iniciando una nueva reporduccion sobre la que ya se esta reproduciendo
+2.Lista archivos que no son MP3
 # Integracion de la libreria jlayer-1.0.1.jar en NetBeans
 1. Seleccionar la opcion Add Jar/Folder
 
