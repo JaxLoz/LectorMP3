@@ -18,6 +18,11 @@ Esto es un lector de archivos MP3 muy basico realizado con la libreria externa j
 
 ![image](https://github.com/JaxLoz/LectorMP3/assets/88448012/24cd6ee7-66c3-409d-9aab-84c4fea37f7c)
 
+# Vista
+
+![image](https://github.com/JaxLoz/LectorMP3/assets/88448012/f8dc2b20-4e59-4cf4-bfbc-dd488d7bf5f6)
+
+![image](https://github.com/JaxLoz/LectorMP3/assets/88448012/ff6e7a42-302a-477c-835d-98e4712b19b1)
 
 
 
